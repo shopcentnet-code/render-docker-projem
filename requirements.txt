@@ -1,6 +1,6 @@
 fastapi
 uvicorn
 python-multipart
-torch
+apscheduler
 demucs
-numpy<2.0
+numpy<2 
